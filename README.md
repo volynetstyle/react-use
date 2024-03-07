@@ -44,7 +44,7 @@
 </div>
 
 - [**Sensors**](./docs/Sensors.md)
-  - [`useDetectSticky`](./docs/useDetectSticky.md) &mdash; React lifecycle hook that detects if an element is sticky based on IntersectionObserver API.
+  - [`useDetectSticky`](./docs/useDetectSticky.md) &mdash; React lifecycle hook that detects if an element is sticky based on IntersectionObserver API. [![][img-demo]](https://codesandbox.io/s/qlvn662zww)
   - [`useBattery`](./docs/useBattery.md) &mdash; tracks device battery state. [![][img-demo]](https://codesandbox.io/s/qlvn662zww)
   - [`useGeolocation`](./docs/useGeolocation.md) &mdash; tracks geo location state of user's device. [![][img-demo]](https://streamich.github.io/react-use/?path=/story/sensors-usegeolocation--demo)
   - [`useHover` and `useHoverDirty`](./docs/useHover.md) &mdash; tracks mouse hover state of some element. [![][img-demo]](https://codesandbox.io/s/zpn583rvx)
